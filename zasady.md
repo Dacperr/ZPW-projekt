@@ -1,9 +1,23 @@
-##Zoo Online
-Hej, dzięki, że chcesz współtworzyć ten projekt, poniżej znajdziesz podstawowe zasady.
+# Zasady współpracy - ZOO Online
+Hej
+Dzięki za zainteresowanie współtworzeniem tego projektu. Poniżej znajdziesz instrukcje jak możesz się zaangażować i wprowadzać zmiany.
 
-##Zasady tworzenia
-1. Rób forki
-2. Branche
-3. itd
+## Jak zgłaszać zmiany
+1. Forkuj repozytorium
+2. Stwórz nowy branch
+3. Wprowadź zmiany
+4. Utwórz pull request (PR)
 
-##pozdrowienia
+## Styl commitów 
+Używaj jasnych i zwięzłych komunikatówcommitów. Przykłady:
+- feat: dodanie nowej funkcji
+- fix: poprawka błędów
+- docs: zmiany w dokumentacji
+
+## Nazwy branchy
+- `feature/...` - nowe funkcje
+- `fix/...` - poprawki błędów
+- `docs/...` - dokumentacja
+
+---
+Dziękujemyi i POZDRO
