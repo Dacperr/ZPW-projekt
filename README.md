@@ -1,6 +1,8 @@
 # Nazwa projektu
 Projekt ZOO Online stworzony na potrzeby przedmiotu "Zarządzanie projektem wdrożeniowym" na WSB Merito w Gdyni
 
+![Podgląd projektu](img/tajger.jpg)
+
 ## Spis treści
 - [Instalacja](#instalacja)
 - [Użycie](#użycie)
